@@ -1,0 +1,14 @@
+.git/
+.github/
+.agents/
+.codex/
+.transcriber/
+.vercel/
+.env*
+Microsoft/
+README.md
+assets/images/*.png
+*.log
+*.map
+*.bak
+*.tmp
