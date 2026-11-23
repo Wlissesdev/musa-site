@@ -21,9 +21,9 @@ const researchYears = {
     description: "Comparamos obras literárias e suas adaptações para o cinema, analisando como linguagens diferentes ampliam a compreensão da vulnerabilidade e da saúde mental feminina.",
     methods: ["Literatura comparada", "Análise fílmica", "Entrevista", "Divulgação científica"],
     books: [
-      ["As Meninas", "Lygia Fagundes Telles"],
-      ["As Virgens Suicidas", "Jeffrey Eugenides"],
-      ["Veronika Decide Morrer", "Paulo Coelho"]
+      ["As Meninas", "Lygia Fagundes Telles · livro + adaptação"],
+      ["As Virgens Suicidas", "Jeffrey Eugenides · livro + adaptação"],
+      ["Veronika Decide Morrer", "Paulo Coelho · livro + adaptação"]
     ],
     resultTitle: "2º lugar · LLA",
     resultLabel: "Conquista",
@@ -34,12 +34,12 @@ const researchYears = {
   2025: {
     kicker: "Olhar ampliado",
     title: "Gênero, desigualdade e subjetividade",
-    description: "A pesquisa passou a observar como estereótipos e desigualdades de gênero, raça e classe atravessam a construção da subjetividade e da saúde mental feminina, comparando três livros e suas três adaptações audiovisuais.",
+    description: "A pesquisa passou a observar como estereótipos e desigualdades de gênero, raça e classe atravessam a construção da subjetividade e da saúde mental feminina, a partir da análise de três obras literárias.",
     methods: ["Pesquisa bibliográfica", "Análise crítica", "Entrevistas", "Público jovem"],
     books: [
-      ["A Amiga Genial", "Elena Ferrante · livro + adaptação"],
-      ["Lucíola", "José de Alencar · livro + adaptação"],
-      ["Torto Arado", "Itamar Vieira Junior · livro + adaptação"]
+      ["A Amiga Genial", "Elena Ferrante · livro"],
+      ["Lucíola", "José de Alencar · livro"],
+      ["Torto Arado", "Itamar Vieira Junior · livro"]
     ],
     resultTitle: "Campeão geral",
     resultLabel: "Conquista",
@@ -140,9 +140,9 @@ const articles = {
   entrevista: {
     kicker: "Entrevista · 22 de setembro de 2023",
     title: "Escuta, autoestima e saúde mental feminina",
-    byline: "Conversa com Sônia Parga · terapeuta especialista em mulheres",
+    byline: "Conversa com Sônia Pargas · terapeuta especialista em mulheres",
     paragraphs: [
-      "A entrevista com Sônia Parga buscou aprofundar a compreensão sobre desafios emocionais enfrentados pelas mulheres e sobre as formas de acolhimento e tratamento disponíveis.",
+      "A entrevista com Sônia Pargas buscou aprofundar a compreensão sobre desafios emocionais enfrentados pelas mulheres e sobre as formas de acolhimento e tratamento disponíveis.",
       "Sônia destacou a importância dos grupos terapêuticos como espaços de escuta, acolhimento e identificação. Ao compartilhar experiências e ouvir histórias semelhantes, as mulheres percebem que não estão sozinhas em suas dores e dificuldades.",
       "A terapeuta explicou que experiências dolorosas podem deixar marcas profundas, mas que é possível ressignificá-las por meio do autoconhecimento, do acolhimento emocional e do acompanhamento terapêutico. A cura começa quando a pessoa reconhece suas feridas e se permite reconstruir novos caminhos.",
       "A literatura também apareceu como ferramenta de aprendizado e empatia. Conhecer as experiências de outras pessoas por meio de livros e relatos possibilita uma compreensão mais ampla da realidade humana.",
